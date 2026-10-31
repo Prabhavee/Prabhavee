@@ -4,13 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Prabhavee Sanjulaa — undergraduate at Wayamba University of Sri Lanka interested in UI/UX development, C and Java.">
-  <title>Prabhavee Sanjulaa | My Digital Garden</title>
-  <div align="center">
-![Prabhavee Sanjulaa - floral pink GitHub profile](assets/floral-profile.png)
-<!-- This picture is included in the uploaded assets folder, so the pink-gradient design works without external badge services. -->
-
+  
+ 
 </head>
 <body>
+
+
+
+
+
   <main class="container">
     <header class="hero">
       <span class="flower f1">🌷</span><span class="flower f2">🌸</span><span class="flower f3">✿</span><span class="flower f4">🌼</span>
@@ -34,5 +36,6 @@
     <section class="section quote">“Like flowers, we all bloom in our own time.” 🌸</section>
     <div class="flowerline">✿ ❀ ✿</div><footer class="footer">Made with curiosity, creativity &amp; a little pink magic ♡</footer>
   </main>
+  </img>
 </body>
 </html>
